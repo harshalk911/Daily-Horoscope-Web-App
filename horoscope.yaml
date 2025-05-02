@@ -1,0 +1,59 @@
+aries:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_88c3881282ada79f5aac3c6256fb086c > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_88c3881282ada79f5aac3c6256fb086c > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_88c3881282ada79f5aac3c6256fb086c > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_88c3881282ada79f5aac3c6256fb086c > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+taurus:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_3465ac5e4e6bcc2756e915806bc3ae5a > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_3465ac5e4e6bcc2756e915806bc3ae5a > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_3465ac5e4e6bcc2756e915806bc3ae5a > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_3465ac5e4e6bcc2756e915806bc3ae5a > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+gemini:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_7393bc7616d1102392436dab281dfc01 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_7393bc7616d1102392436dab281dfc01 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_7393bc7616d1102392436dab281dfc01 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_7393bc7616d1102392436dab281dfc01 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+cancer:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_44b5fb43c95aedb40e82fae6daf3aee9 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_44b5fb43c95aedb40e82fae6daf3aee9 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_44b5fb43c95aedb40e82fae6daf3aee9 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_44b5fb43c95aedb40e82fae6daf3aee9 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+leo:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_30a8cf671d4db26f5e7de01bb01c97c4 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_30a8cf671d4db26f5e7de01bb01c97c4 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_30a8cf671d4db26f5e7de01bb01c97c4 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_30a8cf671d4db26f5e7de01bb01c97c4 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+virgo:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_133671c5dadaef706e7d3a4c37a82924 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_133671c5dadaef706e7d3a4c37a82924 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_133671c5dadaef706e7d3a4c37a82924 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_133671c5dadaef706e7d3a4c37a82924 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+libra:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_9ba0e75a49edec76819f0e140d136305 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_9ba0e75a49edec76819f0e140d136305 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_9ba0e75a49edec76819f0e140d136305 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_9ba0e75a49edec76819f0e140d136305 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+scorpio:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_68ccd35ad5ec74e8feb0cbca2ac2d917 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_68ccd35ad5ec74e8feb0cbca2ac2d917 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_68ccd35ad5ec74e8feb0cbca2ac2d917 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_68ccd35ad5ec74e8feb0cbca2ac2d917 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+sagittarius:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_7b45a45f64296644c4ea92fc8c17772c > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_7b45a45f64296644c4ea92fc8c17772c > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_7b45a45f64296644c4ea92fc8c17772c > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_7b45a45f64296644c4ea92fc8c17772c > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+capricorn:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_6ed17a1aa2958bb88c0d540a0f7e2c10 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_6ed17a1aa2958bb88c0d540a0f7e2c10 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_6ed17a1aa2958bb88c0d540a0f7e2c10 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_6ed17a1aa2958bb88c0d540a0f7e2c10 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+aquarius:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_56b8d105cf89300ac824e2cb88a3fc60 > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_56b8d105cf89300ac824e2cb88a3fc60 > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_56b8d105cf89300ac824e2cb88a3fc60 > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_56b8d105cf89300ac824e2cb88a3fc60 > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
+
+pisces:
+  css: "body > div.wp-site-blocks > main > div > div.wp-block-columns.is-layout-flex.wp-container-core-columns-is-layout-1.wp-block-columns-is-layout-flex > div:nth-child(1) > h1, #chinese-horoscope-type-block-block_7c088eb4649e770eec345765663786ed > div.horoscope-content > div.horoscope-date > div > h2, #chinese-horoscope-type-block-block_7c088eb4649e770eec345765663786ed > div.horoscope-content > div.horoscope-date > div > p, #chinese-horoscope-type-block-block_7c088eb4649e770eec345765663786ed > div.horoscope-content > p:nth-child(3), #chinese-horoscope-type-block-block_7c088eb4649e770eec345765663786ed > div.horoscope-content > p:nth-child(4)"
+  type: Text
+  multiple: true
