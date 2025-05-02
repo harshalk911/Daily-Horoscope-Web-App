@@ -83,7 +83,16 @@ def extract_pisces(source):
     value = extractor.extract(source)["pisces"]
     return value
 
-
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #f0e6d6;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 col1 , col2 = st.columns(2)
 with col2:
@@ -93,7 +102,6 @@ with col1:
         """
         <style>
         .fancy-header {
-            text-align: center;
             color: #A0522D;
             font-size: 50px;
             font-weight: bold;
